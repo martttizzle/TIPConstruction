@@ -1,0 +1,9 @@
+/*
+
+Ideas
+nav bar fixed
+carosle of photos
+figure how to get an email contact
+
+
+*/
